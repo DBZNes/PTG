@@ -1,0 +1,5 @@
+import pygame
+
+WINDOW_WIDTH, WINDOW_HEIGHT = 800, 400
+FPS = 60
+TILE_SIZE = 64
